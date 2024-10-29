@@ -6,4 +6,5 @@ return {
     [7209798301] = true,  -- Jungergottxalt2
     [4981997317] = true,  -- Jungergottalt2
     [2297130039] = true,  -- Dub
+    [2757933792] = true,  -- Jungergottalt1
 }
