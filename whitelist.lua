@@ -11,4 +11,5 @@ return {
     [7218080978] = true,  -- Frite
     [6113226774] = false,  -- Teddy alt4
     [7217204442] = true,  -- FLorian alt3
+    [7484268093] = true,  -- Ludrig
 }
