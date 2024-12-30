@@ -12,4 +12,5 @@ return {
     [6113226774] = false,  -- Teddy alt4
     [7217204442] = true,  -- FLorian alt3
     [7484268093] = true,  -- Ludrig
+    [2681660641] = true,  -- Zubat
 }
