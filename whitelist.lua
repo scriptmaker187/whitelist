@@ -13,4 +13,5 @@ return {
     [7217204442] = true,  -- FLorian alt3
     [7484268093] = true,  -- Ludrig
     [2681660641] = false,  -- Zubat
+    [7837670717] = true,  -- Crow
 }
