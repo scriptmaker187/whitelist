@@ -14,4 +14,5 @@ return {
     [7484268093] = true,  -- Ludrig
     [2681660641] = false,  -- Zubat
     [7837670717] = true,  -- Crow
+    [3684193667] = true,  -- Nick
 }
