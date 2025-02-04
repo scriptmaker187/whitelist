@@ -18,4 +18,5 @@ return {
     [7885512452] = true,  -- Flo (random alt)
     [1741397421] = true,  -- Jamal alt
     [450380534] = true, -- Jamal Main
+    [1295650074] = true, -- Jamal alt1
 }
