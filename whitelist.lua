@@ -16,4 +16,5 @@ return {
     [7837670717] = true,  -- Crow
     [3684193667] = true,  -- Nick
     [7885512452] = true,  -- Flo (random alt)
+    [1741397421] = true,  -- Jamal alt
 }
