@@ -19,4 +19,5 @@ return {
     [1741397421] = true,  -- Jamal alt
     [450380534] = true, -- Jamal Main
     [1295650074] = true, -- Jamal alt1
+    [4863982610] = true, -- Darling <3
 }
