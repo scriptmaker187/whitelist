@@ -13,7 +13,7 @@ return {
     [7217204442] = true,  -- FLorian alt3
     [7484268093] = true,  -- Ludrig
     [2681660641] = false,  -- Zubat
-    [7837670717] = true,  -- Crow
+    [7837670717] = false,  -- Crow
     [3684193667] = true,  -- Nick
     [7885512452] = true,  -- Flo (random alt)
     [1741397421] = true,  -- Jamal alt
