@@ -20,7 +20,7 @@ return {
     [450380534] = true, -- Jamal Main
     [1295650074] = true, -- Jamal alt1
     [4863982610] = true, -- Darling <3
-    [2221755438] = true, -- Julian - Test 1
+    [2221755438] = false, -- Julian - Test 1
     [4251947169] = true, -- LORD_OFxFRITEalt1  | Cringe Retard
     [3762643286] = true, -- Marc_Boy208
     [3729215871] = true, -- marcgamer208
