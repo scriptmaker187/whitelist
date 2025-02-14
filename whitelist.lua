@@ -24,4 +24,5 @@ return {
     [4251947169] = true, -- LORD_OFxFRITEalt1  | Cringe Retard
     [3762643286] = true, -- Marc_Boy208
     [3729215871] = true, -- marcgamer208
+    [8008758372] = true, -- nick | cheater alt
 }
