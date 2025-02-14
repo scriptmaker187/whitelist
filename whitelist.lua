@@ -25,4 +25,5 @@ return {
     [3762643286] = true, -- Marc_Boy208
     [3729215871] = true, -- marcgamer208
     [8008758372] = true, -- nick | cheater alt
+    [2508999976] = true, -- Connor
 }
