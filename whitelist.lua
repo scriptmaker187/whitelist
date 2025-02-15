@@ -26,4 +26,5 @@ return {
     [3729215871] = true, -- marcgamer208
     [8008758372] = true, -- nick | cheater alt
     [2508999976] = true, -- Connor
+    [1670252724] = true, -- yuno der kleine
 }
