@@ -28,4 +28,5 @@ return {
     [2508999976] = true, -- Connor
     [1670252724] = true, -- yuno der kleine
     [4364578436] = true, -- Nick | Cringe alt
+    [8251902024] = true, -- Jason | alt
 }
