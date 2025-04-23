@@ -32,4 +32,5 @@ return {
     [8251941125] = true, -- Jason | alt2
     [8252006148] = true, -- Jason | alt3
     [8252047422] = true, -- Jason | alt4
+    [2738093956] = true, -- Max_gt1500
 }
