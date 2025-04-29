@@ -33,4 +33,5 @@ return {
     [8252006148] = true, -- Jason | alt3
     [8252047422] = true, -- Jason | alt4
     [2738093956] = true, -- Max_gt1500
+    [461294322] = true,  -- typischlxcaaaaa
 }
