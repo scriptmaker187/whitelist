@@ -35,5 +35,6 @@ return {
     [2738093956] = true, -- Max_gt1500
     [461294322] = true,  -- typischlxcaaaaa
     [8379817201] = true, -- pain
-    [3316182214] = true, -- Baumi <3
+    [3316182214] = false, -- Baumi
+    [8728132250] = true, -- TEST
 }
