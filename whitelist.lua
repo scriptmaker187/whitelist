@@ -37,4 +37,5 @@ return {
     [8379817201] = true, -- pain
     [3316182214] = false, -- Baumi
     [8728132250] = true, -- TEST
+    [8514554214] = true, -- FRITE | alt 
 }
