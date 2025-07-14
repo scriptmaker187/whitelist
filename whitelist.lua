@@ -40,4 +40,5 @@ return {
     [8514554214] = true, -- FRITE | alt 
     [8849298109] = true, -- TEST V2
     [8744984845] = true, -- pandapro19851
+    [2284864679] = true, -- Engel <3
 }
