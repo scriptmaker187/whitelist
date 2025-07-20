@@ -41,4 +41,5 @@ return {
     [8849298109] = true, -- TEST V2
     [8744984845] = true, -- pandapro19851
     [2284864679] = true, -- Engel <3
+    [1921475453] = true, -- Mio (level by panda)
 }
