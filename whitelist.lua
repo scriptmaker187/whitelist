@@ -25,7 +25,7 @@ return {
     [3762643286] = true, -- Marc_Boy208
     [3729215871] = true, -- marcgamer208
     [8008758372] = true, -- nick | cheater alt
-    [2508999976] = true, -- Connor
+    [2508999976] = false, -- Connor
     [1670252724] = true, -- yuno der kleine
     [4364578436] = true, -- Nick | Cringe alt
     [8251902024] = true, -- Jason | alt
@@ -34,12 +34,13 @@ return {
     [8252047422] = true, -- Jason | alt4
     [2738093956] = true, -- Max_gt1500
     [461294322] = true,  -- typischlxcaaaaa
-    [8379817201] = true, -- pain
+    [8379817201] = false, -- pain
     [3316182214] = false, -- Baumi
     [8728132250] = true, -- TEST
     [8514554214] = true, -- FRITE | alt 
     [8849298109] = true, -- TEST V2
-    [8744984845] = true, -- pandapro19851
+    [8744984845] = false, -- pandapro19851
     [2284864679] = true, -- Engel <3
-    [1921475453] = true, -- Mio (level by panda)
+    [1921475453] = false, -- Mio (level by panda)
+    [7228929423] = true, -- derchor10
 }
