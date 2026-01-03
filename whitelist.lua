@@ -43,4 +43,5 @@ return {
     [2284864679] = true, -- Engel <3
     [1921475453] = false, -- Mio (level by panda)
     [7228929423] = true, -- derchor10
+    [1604747823] = true, -- Secret
 }
