@@ -46,4 +46,5 @@ return {
     [1604747823] = true, -- Secret
     [5139432579] = true, -- David
     [9438410122] = true, -- dinoalt2
+    [10425841333] = true, -- Baby
 }
